@@ -1,0 +1,11 @@
+{
+  "name": "elcinema-proxy",
+  "version": "1.0.0",
+  "description": "Proxy API for elcinema.com — Forward Widget backend",
+  "dependencies": {
+    "cheerio": "^1.0.0"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
